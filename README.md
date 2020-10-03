@@ -8,6 +8,10 @@ Q. [Maximum Distance in Arrays](https://leetcode.com/explore/featured/card/octob
 
 Q. [Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/NumberofRecentCalls.java)
 
+Q. [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/CombinationSum.java)
+
+Q. [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/KdiffPairsinArray.java)
+
 ## WEEK 2 🚧
 
 [Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
