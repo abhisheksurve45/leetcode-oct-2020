@@ -12,6 +12,8 @@ Q. [Combination Sum](https://leetcode.com/explore/featured/card/october-leetcodi
 
 Q. [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/KdiffPairsinArray.java)
 
+Q. [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/RemoveCoveredIntervals.java)
+
 ## WEEK 2 🚧
 
 [Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
