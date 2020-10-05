@@ -14,6 +14,8 @@ Q. [K-diff Pairs in an Array](https://leetcode.com/explore/featured/card/october
 
 Q. [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/RemoveCoveredIntervals.java)
 
+Q. [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/ComplementofBase10Integer.java)
+
 ## WEEK 2 🚧
 
 [Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
