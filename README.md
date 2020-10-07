@@ -2,7 +2,7 @@
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
 
-## WEEK 1 🚧
+## WEEK 1 ✅
 
 Q. [Maximum Distance in Arrays](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3479/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/MaximumDistanceinArrays.java)
 
@@ -17,6 +17,8 @@ Q. [Remove Covered Intervals](https://leetcode.com/explore/featured/card/october
 Q. [Complement of Base 10 Integer](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/ComplementofBase10Integer.java)
 
 Q. [Insert into a Binary Search Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/InsertinBST.java)
+
+Q. [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK1/RotateList.java)
 
 ## WEEK 2 🚧
 
