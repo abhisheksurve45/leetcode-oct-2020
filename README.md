@@ -22,7 +22,9 @@ Q. [Rotate List](https://leetcode.com/explore/featured/card/october-leetcoding-c
 
 ## WEEK 2 🚧
 
-[Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
+Q. [Two Sum III - Data structure design](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3487/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/TwoSumIII.java)
+
+Q. [Binary Search](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/BinarySearch.java)
 
 ## WEEK 3 🚧
 
