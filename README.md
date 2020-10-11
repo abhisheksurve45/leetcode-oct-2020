@@ -28,6 +28,10 @@ Q. [Binary Search](https://leetcode.com/explore/featured/card/october-leetcoding
 
 Q. [Serialize and Deserialize BST](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/SerializeandDeserializeBST.java)
 
+Q. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/MinNumberofArrowstoBurstBalloons.java)
+
+Q. [Remove Duplicate Letters](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/RemoveDuplicateLetters.java)
+
 ## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
