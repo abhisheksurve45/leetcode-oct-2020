@@ -32,9 +32,17 @@ Q. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/fea
 
 Q. [Remove Duplicate Letters](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/RemoveDuplicateLetters.java)
 
+Q. [Buddy Strings](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/BuddyStrings.java)
+
+Q. [Sort List](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/SortList.java)
+
+Q. [House Robber II](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/HouseRobberII.java)
+
 ## WEEK 3 🚧
 
-[Coming soon](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
+Q. [Meeting Rooms II](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3495/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/MeetingRoomsII.java)
+
+Q. [Rotate Array](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-oct-2020/blob/master/WEEK2/RotateArray.java)
 
 ## WEEK 4 🚧
 
